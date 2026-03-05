@@ -1,0 +1,3 @@
+;/*FB_PKG_DELIM*/
+
+__d("adjustFaceboxPosition",[],(function(t,n,r,o,a,i){"use strict";function e(e){var t=e.boxSize,n=e.imageDimension,r=e.originalPos;return r<0?0:r+t>n?n-t:r}i.default=e}),66);
